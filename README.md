@@ -1,6 +1,8 @@
 ### SIMPLE TODO APP WITH VUE 3
 
 this is a repo for a simple todo app with vue 3
+
+
 ![image](https://github.com/daffa09/todo-app-vue-3/assets/68214221/f5002080-5c7c-4726-90d8-780ae31d902d)
 
 
